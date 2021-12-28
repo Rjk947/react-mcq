@@ -1,0 +1,55 @@
+{
+    "data": [
+      {
+        "question": "CAD/CAM is the relationship between ?",
+        "options": [
+          "science and engineering",
+          "manufacturing and marketing",
+          "design and manufacturing",
+          "design and marketing"
+        ],
+        "answer": "design and manufacturing"
+      },
+      {
+        "question": "The process in which the detailed specifications materials, dimensions, tolerances and surface rough is made is known as ?",
+        "options": [
+          "decision process",
+          "analysis process",
+          "implementation process",
+          "refinement process"
+        ],
+        "answer": "implementation process"
+      },
+      {
+        "question": "Which two disciplines are tied by a common database ?",
+        "options": [
+          "documentation and geometric modeling",
+          "CAD and CAM",
+          "drafting and documentation",
+          "none of the mentioned"
+        ],
+        "answer": "CAD and CAM"
+      },
+      {
+        "question": "The term that is used for geometric modelling like solid modelling, wire frame modelling and drafting is known as ?",
+        "options": [
+          "software package",
+          "operating system",
+          "application software",
+          "none of the mentioned"
+        ],
+        "answer": "software package"
+      },
+      {
+        "question": "The system environment in a mainframe computer consists of ?",
+        "options": [
+          "central processing",
+          "storage devices",
+          "printers and plotters",
+          "both central processing and storage devices"
+        ],
+        "answer": "both central processing and storage devices"
+      }
+    ]
+  }
+  
