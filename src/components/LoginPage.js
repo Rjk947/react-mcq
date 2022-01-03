@@ -8,7 +8,7 @@ function LoginPage({ onQuizStart, email, newEmail, password, newPassword }) {
   };
   return (
     <>
-      <form onSubmit={submitForm} className="card" style={{ backgroundColor: "lightblue"}}>
+      <form onSubmit={submitForm} className="card" style={{ backgroundColor: "white"}}>
         <div className="card_content" >
           <div className="content" >
             <header className="modal-card-head">
@@ -19,7 +19,7 @@ function LoginPage({ onQuizStart, email, newEmail, password, newPassword }) {
             <div style={{display:"flex", flexDirection:"column"}}>
             <label htmlFor="email"><h4 style={{ margin:"5px"}}>Email</h4></label>
             <input
-              type="text"
+              type="email"
               name="email"
               value={email}
               id="email"
